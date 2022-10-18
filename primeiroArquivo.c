@@ -32,6 +32,7 @@ if(media < 3){
  printf ("\n\nA maior nota do aluno foi %f.", maiorNota);
  printf ("\n\nA menor nota do aluno foi %f.", menorNota);
 	return 0;
+	/*inserir texto de comentário para teste
 				}
 }
 
